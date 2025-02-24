@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 1cfb9a3b7c98008a9a6848e5cffc306a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6910425721445817585
+    second: transparent-hay-bale-haystack-stack-hay-straw-64a22f43b36038.2472721816883505317347_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: transparent-hay-bale-haystack-stack-hay-straw-64a22f43b36038.2472721816883505317347_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 238
+        width: 3380
+        height: 3609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -585, y: 1153.5}
+        - {x: -587, y: 1006.5}
+        - {x: -720, y: 772.5}
+        - {x: -687, y: 612.5}
+        - {x: -654, y: 479.5}
+        - {x: -716, y: 282.5}
+        - {x: -735, y: 98.5}
+        - {x: -635, y: -105.5}
+        - {x: -720, y: -358.5}
+        - {x: -687, y: -635.5}
+        - {x: -801, y: -876.5}
+        - {x: -753, y: -1092.5}
+        - {x: -876, y: -1275.5}
+        - {x: -896, y: -1463.5}
+        - {x: -886, y: -1611.5}
+        - {x: 1230, y: -1623.5}
+        - {x: 1278, y: -1452.5}
+        - {x: 1283, y: -1263.5}
+        - {x: 1252, y: -1128.5}
+        - {x: 1162, y: -1064.5}
+        - {x: 1080, y: -1027.5}
+        - {x: 1136, y: -876.5}
+        - {x: 1123, y: -691.5}
+        - {x: 1213, y: -585.5}
+        - {x: 1269, y: -428.5}
+        - {x: 1252, y: -202.5}
+        - {x: 1162, y: -36.5}
+        - {x: 1094, y: 18.5}
+        - {x: 1160, y: 220.5}
+        - {x: 1117, y: 467.5}
+        - {x: 1050, y: 592.5}
+        - {x: 979, y: 664.5}
+        - {x: 1018, y: 841.5}
+        - {x: 943, y: 1090.5}
+        - {x: 1016, y: 1215.5}
+        - {x: 939, y: 1497.5}
+        - {x: 844, y: 1623.5}
+        - {x: 431, y: 1743.5}
+        - {x: -500, y: 1420.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03ef7a5b6c3910a0800000000000000
+      internalID: -6910425721445817585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 87f92b04e6206b842a49379cb6b9d708
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      transparent-hay-bale-haystack-stack-hay-straw-64a22f43b36038.2472721816883505317347_0: -6910425721445817585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
